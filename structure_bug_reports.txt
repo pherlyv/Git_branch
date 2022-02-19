@@ -1,0 +1,13 @@
+Defect ID
+Reporter
+Affect version
+Project
+Title
+Preconditions
+Steps of Reproduce
+Actual result
+Expected result
+Attachment
+Severity
+Priority
+Environment
