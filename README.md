@@ -29,7 +29,7 @@
     - Environment `Enter`, `CTRL+D`.
 4. Запушить структуру багрепорта на внешний репозиторий.
     - команда `git add .`.
-    - команда `git coomit -m "structure_bug_reports.txt"`.
+    - команда `git commit -m "structure_bug_reports.txt"`.
     - команда `git push`.
 
 5. Вмержить ветку Bag Reports в Main.
@@ -46,11 +46,11 @@
     - Test result `Enter`, `CTRL+D`.
 10. Запушить структуру на внешний репозиторий.
     - команда `git add .`.
-    - команда `git coomit -m "structure_bug_reports.txt"`.
+    - команда `git commit -m "structure_bug_reports.txt"`.
     - команда `git push`.
 11. На внешнем репозитории сделать Pull Request ветки CheckLists в main.
     - зайти в ветку CheckList на github.
     - нажать кнопку `Pull Request`.
 12. Синхронизировать Внешнюю и Локальную ветки Main.
-    - команда `git chechout main`.
+    - команда `git checkout main`.
     - команда `git pull`.
